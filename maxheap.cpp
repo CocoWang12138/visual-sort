@@ -69,4 +69,3 @@ void MaxHeap::Initialize(int a[],int size,int ArraySize)
      heap[c/2]=y;
   }
 }
-
